@@ -1,0 +1,3 @@
+export const firstName_testData = ['Vladimir','Serhiy','Denis','Viktor','Gennadiy','Anna','Oksana','Natasha']
+export const lastName_testData = ['Bobrov', 'Sinitsa', 'Sidorov', 'Vasechkin', 'Perepelitsa']
+export const lorem_ipsum_100 = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet tellus ligula. Donec a pharetra libero. Sed fringilla eleifend sem at consectetur. Mauris nisi velit, interdum congue sodales quis, iaculis nec risus. Duis placerat urna ac cursus aliquet. Nam efficitur lectus id nulla porta, eu vulputate orci dapibus. Pellentesque ornare ipsum nec nunc varius, vel varius ex blandit.'
